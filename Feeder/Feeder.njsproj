@@ -38,6 +38,9 @@
     <Content Include="public\stylesheets\style.styl" />
     <Content Include="README.md" />
     <Content Include="typings.json" />
+    <Content Include="views\about.html" />
+    <Content Include="views\contact.html" />
+    <Content Include="views\index.html" />
     <Content Include="views\index.jade" />
     <Content Include="views\layout.jade" />
     <Content Include="views\error.jade" />
